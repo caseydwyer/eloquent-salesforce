@@ -1,5 +1,5 @@
 {
-  "name": "caseydwyer/eloquent-sales-force",
+  "name": "caseydwyer/eloquent-salesforce",
   "description": "An eloquent model data source for Salesforce",
   "license": "MIT",
   "keywords": [
